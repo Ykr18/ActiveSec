@@ -21,8 +21,7 @@ Detect unauthorized users or bots on your Windows PC by learning your unique mou
 
 1. **Clone this repo**
     ```
-    git clone https://github.com/Ykr18/ActiveSec/tree/main.git
-    cd mouse-anomaly-detector
+    git clone https://github.com/Ykr18/ActiveSec.git
     ```
 
 2. **Install dependencies**
@@ -36,7 +35,7 @@ Detect unauthorized users or bots on your Windows PC by learning your unique mou
 
 ### 1. Collect Mouse Data
 
-Collect about 15,000 lines of data using the [data collection script](data_collector.py).
+Collect about 15,000 lines of data using the [data collection script](track_and_log.ipynb).
 
 ### 2. Train Your Model
 

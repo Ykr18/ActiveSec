@@ -21,7 +21,7 @@ Detect unauthorized users or bots on your Windows PC by learning your unique mou
 
 1. **Clone this repo**
     ```
-    git clone https://github.com/yourusername/mouse-anomaly-detector.git
+    git clone https://github.com/Ykr18/ActiveSec/tree/main.git
     cd mouse-anomaly-detector
     ```
 

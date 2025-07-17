@@ -39,14 +39,13 @@ Collect about 15,000 lines of data using the [data collection script](track_and_
 
 ### 2. Train Your Model
 
-python train_model.py
-
+[Part 1](Part_1.ipynb)
 
 (Produces `mouse_anomaly_model.h5` and scaler files.)
 
 ### 3. Run the Real-Time Monitor
 
-python mouse_monitor.py
+[Part 2](Part_2.ipynb)
 
 
 - The app runs quietly in the background.
